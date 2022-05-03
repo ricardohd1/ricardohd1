@@ -5,4 +5,4 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohd1&layout=compact&langs_count=16&theme=chartreuse-dark"/>  
 </div>   
 
-![Snake animation](https://github.com/seu-usuário-aqui/ricardohd1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ricardohd1/ricardohd1/blob/output/github-contribution-grid-snake.svg)
